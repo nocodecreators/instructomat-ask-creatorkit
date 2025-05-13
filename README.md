@@ -19,5 +19,3 @@ Wenn dir das CreatorKit hilft, freue ich mich über eine kleine Spende:
 
 Veröffentlicht unter [CC BY 4.0](Lizenz_CC-BY.md) – du darfst alles nutzen, anpassen und weitergeben.  
 Bitte gib Klaus Hartmann · No Code Creators als Quelle an.
-
-
